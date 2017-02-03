@@ -1,0 +1,11 @@
+div {
+    text-align: center;
+}
+table {
+    width: 100%;
+    border: 0;
+}
+td {
+    width: 33%;
+    text-align: center;
+}

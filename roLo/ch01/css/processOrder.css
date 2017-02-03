@@ -1,0 +1,26 @@
+/*
+
+ */
+
+table {
+    border: 0;
+}
+th {
+    background: #cccccc;
+    font-weight: normal;
+}
+
+
+#tItem {
+    width: 150px;
+    text-align: center;
+}
+#tQuantity {
+    width: 15px;
+    text-align: center;
+}
+
+
+#submitOrder {
+    text-align: center;
+}

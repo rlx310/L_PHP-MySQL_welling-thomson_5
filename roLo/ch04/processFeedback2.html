@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bob's Auto Parts - Customer Feedback</title>
+</head>
+<body>
+    <h1>Customer Feedback</h1>
+    <p>Please tell us what you think.</p>
+    <form action="processFeedback2.php" method="post">
+        <p>
+            <label for="name"><strong>Your name:</strong></label><br />
+            <input type="text" id="name" name="name" size="40" />
+        </p>
+        <p>
+            <label for="email"><strong>Your email address:</strong></label><br />
+            <input type="text" id="email" name="email" size="40" />
+        </p>
+        <p>
+            <label for="feedback"><strong>Your feedback:</strong></label><br />
+            <textarea id="feedback" name="feedback" rows="8" cols="40"></textarea>
+        </p>
+        <p>
+            <input type="submit" value="Send Feedback" />
+        </p>
+    </form>
+</body>
+</html>

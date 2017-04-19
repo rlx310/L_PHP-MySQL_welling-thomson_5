@@ -1,0 +1,16 @@
+table {
+    border: 0px;
+}
+tr:first-child {
+    background: #cccccc;
+}
+tr:first-child td {
+    text-align: center;
+    width: 150px;
+}
+tr:first-child td:nth-child(2) {
+    width: 15px;
+}
+tr:last-child td {
+    text-align: center;
+}

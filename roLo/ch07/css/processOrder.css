@@ -1,0 +1,23 @@
+/*
+
+*/
+
+table {
+    border: 0;
+}
+tr:first-child {
+    background: #ccc;
+}
+#submit-order {
+    text-align: center;
+}
+#tItem {
+    width: 150px;
+    text-align: center;
+    font-weight: normal;
+}
+#tQuantity {
+    width: 150px;
+    text-align: center;
+    font-weight: normal;
+}

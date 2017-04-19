@@ -1,0 +1,11 @@
+table {
+    border: 0;
+    padding: 3px;
+}
+td {
+    text-align: right;
+}
+tr:first-child td {
+    background: #ccc;
+    text-align: center;
+}

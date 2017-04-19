@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bob's Auto Parts - Order Form</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+    <form action="processOrder4.php" method="post">
+        <table>
+            <tr>
+                <td>Item</td>
+                <td>Quantity</td>
+            </tr>
+            <tr>
+                <td>Tires</td>
+                <td><input type="text" name="tireQty" size="3" maxlength="3" /></td>
+            </tr>
+            <tr>
+                <td>Oil</td>
+                <td><input type="text" name="oilQty" size="3" maxlength="3" /></td>
+            </tr>
+            <tr>
+                <td>Spark Plugs</td>
+                <td><input type="text" name="sparkQty" size="3" maxlength="3" /></td>
+            </tr>
+            <tr>
+                <td colspan="2"><input type="submit" value="Submit Order" /></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

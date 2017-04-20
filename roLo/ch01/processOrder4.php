@@ -28,12 +28,12 @@ $sparkQty = $_POST['sparkQty'];
         $totalQty = 0;
         $totalQty = $tireQty + $oilQty + $sparkQty;
         echo "<p>Items ordered: " . $totalQty . "<br />";
-        $totalAmount = 0.00;
 
         define('TIREPRICE', 100);
         define('OILPRICE', 10);
         define('SPARKPRICE', 4);
 
+        $totalAmount = 0.00;
         $totalAmount = $tireQty * TIREPRICE
                         + $oilQty * OILPRICE
                         + $sparkQty * SPARKPRICE;

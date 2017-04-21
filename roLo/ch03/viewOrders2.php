@@ -52,7 +52,7 @@
             $line[1] = intval($line[1]);
             $line[2] = intval($line[2]);
             $line[3] = intval($line[3]);
-            $line[4] = number_format($line[4], 2);
+            $line[4] = number_format(floatval($line[4]), 2);
 
             echo
                 "<tr>

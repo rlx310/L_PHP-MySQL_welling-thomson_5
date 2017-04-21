@@ -44,19 +44,29 @@
           <file leaf-file-name="viewOrders2.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/roLo/ch03/viewOrders2.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="346">
-                  <caret line="52" column="40" lean-forward="true" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+                <state relative-caret-position="362">
+                  <caret line="53" column="40" lean-forward="false" selection-start-line="53" selection-start-column="40" selection-end-line="53" selection-end-column="40" />
                   <folding>
-                    <marker date="1492738305520" expanded="true" signature="873:1084" ph="..." />
-                    <marker date="1492738305520" expanded="true" signature="873:1090" ph="..." />
-                    <marker date="1492738305520" expanded="true" signature="1420:1445" ph="..." />
-                    <marker date="1492738305520" expanded="true" signature="1420:1491" ph="..." />
-                    <marker date="1492738305520" expanded="true" signature="1420:1718" ph="..." />
-                    <marker date="1492738305520" expanded="true" signature="1445:1487" ph="..." />
-                    <marker date="1492738305520" expanded="true" signature="1491:1713" ph="..." />
-                    <marker date="1492738305520" expanded="true" signature="1537:1713" ph="..." />
-                    <marker date="1492738305520" expanded="true" signature="1675:1713" ph="..." />
+                    <marker date="1492738392577" expanded="true" signature="873:1084" ph="..." />
+                    <marker date="1492738392577" expanded="true" signature="873:1090" ph="..." />
+                    <marker date="1492738392577" expanded="true" signature="1359:1384" ph="..." />
+                    <marker date="1492738392577" expanded="true" signature="1359:1430" ph="..." />
+                    <marker date="1492738392577" expanded="true" signature="1359:1657" ph="..." />
+                    <marker date="1492738392577" expanded="true" signature="1384:1426" ph="..." />
+                    <marker date="1492738392577" expanded="true" signature="1430:1652" ph="..." />
+                    <marker date="1492738392577" expanded="true" signature="1476:1652" ph="..." />
+                    <marker date="1492738392577" expanded="true" signature="1614:1652" ph="..." />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="orders.txt" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/roLo/ch03/orders.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -506,12 +516,12 @@
       <workItem from="1492680947086" duration="17000" />
       <workItem from="1492680977859" duration="1354000" />
       <workItem from="1492682354667" duration="12000000" />
-      <workItem from="1492737907026" duration="399000" />
+      <workItem from="1492737907026" duration="486000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="195336000" />
+    <option name="totallyTimeSpent" value="195423000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -781,13 +791,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/roLo/ch02/orders.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/officialSource/Chapter02/processorder.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
@@ -894,13 +897,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/roLo/ch03/orders.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/roLo/ch02/viewOrders2.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -916,20 +912,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/roLo/ch02/orders.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roLo/ch03/orders.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/roLo/ch03/viewOrders2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="52" column="40" lean-forward="true" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+        <state relative-caret-position="362">
+          <caret line="53" column="40" lean-forward="false" selection-start-line="53" selection-start-column="40" selection-end-line="53" selection-end-column="40" />
           <folding>
-            <marker date="1492738305520" expanded="true" signature="873:1084" ph="..." />
-            <marker date="1492738305520" expanded="true" signature="873:1090" ph="..." />
-            <marker date="1492738305520" expanded="true" signature="1420:1445" ph="..." />
-            <marker date="1492738305520" expanded="true" signature="1420:1491" ph="..." />
-            <marker date="1492738305520" expanded="true" signature="1420:1718" ph="..." />
-            <marker date="1492738305520" expanded="true" signature="1445:1487" ph="..." />
-            <marker date="1492738305520" expanded="true" signature="1491:1713" ph="..." />
-            <marker date="1492738305520" expanded="true" signature="1537:1713" ph="..." />
-            <marker date="1492738305520" expanded="true" signature="1675:1713" ph="..." />
+            <marker date="1492738392577" expanded="true" signature="873:1084" ph="..." />
+            <marker date="1492738392577" expanded="true" signature="873:1090" ph="..." />
+            <marker date="1492738392577" expanded="true" signature="1359:1384" ph="..." />
+            <marker date="1492738392577" expanded="true" signature="1359:1430" ph="..." />
+            <marker date="1492738392577" expanded="true" signature="1359:1657" ph="..." />
+            <marker date="1492738392577" expanded="true" signature="1384:1426" ph="..." />
+            <marker date="1492738392577" expanded="true" signature="1430:1652" ph="..." />
+            <marker date="1492738392577" expanded="true" signature="1476:1652" ph="..." />
+            <marker date="1492738392577" expanded="true" signature="1614:1652" ph="..." />
           </folding>
         </state>
       </provider>

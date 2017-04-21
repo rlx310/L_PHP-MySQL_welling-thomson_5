@@ -55,6 +55,7 @@
 
             echo
                 "<tr>
+                    <td>" . $line[0] . "</td>
                     <td>" . $line[1] . "</td>
                     <td>" . $line[2] . "</td>
                     <td>" . $line[3] . "</td>

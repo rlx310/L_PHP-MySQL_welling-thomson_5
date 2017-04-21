@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="145a10e7-0efc-4890-a02d-be8092f130a8" name="Default" comment="" />
+    <list default="true" id="145a10e7-0efc-4890-a02d-be8092f130a8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/roLo/ch03/viewOrders2.php" afterPath="$PROJECT_DIR$/roLo/ch03/viewOrders2.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,11 +31,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="viewOrders.php" pinned="false" current-in-tab="false">
+          <file leaf-file-name="viewOrders.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/roLo/ch03/viewOrders.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="208">
-                  <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+                <state relative-caret-position="288">
+                  <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
                   <folding />
                 </state>
               </provider>
@@ -42,27 +44,19 @@
           <file leaf-file-name="viewOrders2.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/roLo/ch03/viewOrders2.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1040">
-                  <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+                <state relative-caret-position="128">
+                  <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
                   <folding>
-                    <marker date="1492733516442" expanded="true" signature="873:1084" ph="..." />
-                    <marker date="1492733516442" expanded="true" signature="873:1090" ph="..." />
-                    <marker date="1492733516442" expanded="true" signature="1359:1384" ph="..." />
-                    <marker date="1492733516442" expanded="true" signature="1359:1611" ph="..." />
-                    <marker date="1492733516442" expanded="true" signature="1384:1606" ph="..." />
-                    <marker date="1492733516442" expanded="true" signature="1430:1606" ph="..." />
-                    <marker date="1492733516442" expanded="true" signature="1568:1606" ph="..." />
+                    <marker date="1492733688189" expanded="true" signature="873:1084" ph="..." />
+                    <marker date="1492733688189" expanded="true" signature="873:1090" ph="..." />
+                    <marker date="1492733688189" expanded="true" signature="1359:1384" ph="..." />
+                    <marker date="1492733688189" expanded="true" signature="1359:1430" ph="..." />
+                    <marker date="1492733688189" expanded="true" signature="1359:1657" ph="..." />
+                    <marker date="1492733688189" expanded="true" signature="1384:1426" ph="..." />
+                    <marker date="1492733688189" expanded="true" signature="1430:1652" ph="..." />
+                    <marker date="1492733688189" expanded="true" signature="1476:1652" ph="..." />
+                    <marker date="1492733688189" expanded="true" signature="1614:1652" ph="..." />
                   </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="orders.txt" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/roLo/ch03/orders.txt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
                 </state>
               </provider>
             </entry>
@@ -87,7 +81,7 @@
           <file leaf-file-name="vieworders_v2.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/officialSource/Chapter03/vieworders_v2.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="538">
+                <state relative-caret-position="1040">
                   <caret line="65" column="27" lean-forward="false" selection-start-line="65" selection-start-column="27" selection-end-line="65" selection-end-column="27" />
                   <folding>
                     <marker date="1479232069000" expanded="true" signature="761:844" ph="..." />
@@ -120,7 +114,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/roLo/ch16/htpass" />
         <option value="$PROJECT_DIR$/roLo/ch16/content.html" />
         <option value="$PROJECT_DIR$/roLo/ch16/rejection.html" />
         <option value="$PROJECT_DIR$/roLo/ch16/upload.html" />
@@ -171,6 +164,7 @@
         <option value="$PROJECT_DIR$/roLo/ch03/each.php" />
         <option value="$PROJECT_DIR$/roLo/ch03/vieworders.php" />
         <option value="$PROJECT_DIR$/roLo/ch03/viewOrders2.php" />
+        <option value="$PROJECT_DIR$/roLo/ch03/viewOrders.php" />
       </list>
     </option>
   </component>
@@ -235,6 +229,42 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="roLo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php-mysql_welling-thomson_5e" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php-mysql_welling-thomson_5e" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="roLo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch03" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php-mysql_welling-thomson_5e" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php-mysql_welling-thomson_5e" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="roLo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch02" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -475,12 +505,12 @@
       <workItem from="1492589434085" duration="1375000" />
       <workItem from="1492680947086" duration="17000" />
       <workItem from="1492680977859" duration="1354000" />
-      <workItem from="1492682354667" duration="11074000" />
+      <workItem from="1492682354667" duration="12000000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="194011000" />
+    <option name="totallyTimeSpent" value="194937000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -493,6 +523,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1679" y="2" width="1922" height="1092" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Regex Tester" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -502,7 +533,7 @@
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="GhcMod" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.098958336" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.098958336" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Cabal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -832,14 +863,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/roLo/ch02/viewOrders2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" column="49" lean-forward="false" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/officialSource/Chapter02/vieworders_v2.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -889,14 +912,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/roLo/ch03/viewOrders.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/officialSource/Chapter03/vieworders.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -910,7 +925,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/officialSource/Chapter03/vieworders_v2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
+        <state relative-caret-position="1040">
           <caret line="65" column="27" lean-forward="false" selection-start-line="65" selection-start-column="27" selection-end-line="65" selection-end-column="27" />
           <folding>
             <marker date="1479232069000" expanded="true" signature="761:844" ph="..." />
@@ -925,26 +940,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/roLo/ch03/viewOrders2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1040">
-          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-          <folding>
-            <marker date="1492733516442" expanded="true" signature="873:1084" ph="..." />
-            <marker date="1492733516442" expanded="true" signature="873:1090" ph="..." />
-            <marker date="1492733516442" expanded="true" signature="1359:1384" ph="..." />
-            <marker date="1492733516442" expanded="true" signature="1359:1611" ph="..." />
-            <marker date="1492733516442" expanded="true" signature="1384:1606" ph="..." />
-            <marker date="1492733516442" expanded="true" signature="1430:1606" ph="..." />
-            <marker date="1492733516442" expanded="true" signature="1568:1606" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/roLo/ch03/orders.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roLo/ch03/viewOrders2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <marker date="1492733688189" expanded="true" signature="873:1084" ph="..." />
+            <marker date="1492733688189" expanded="true" signature="873:1090" ph="..." />
+            <marker date="1492733688189" expanded="true" signature="1359:1384" ph="..." />
+            <marker date="1492733688189" expanded="true" signature="1359:1430" ph="..." />
+            <marker date="1492733688189" expanded="true" signature="1359:1657" ph="..." />
+            <marker date="1492733688189" expanded="true" signature="1384:1426" ph="..." />
+            <marker date="1492733688189" expanded="true" signature="1430:1652" ph="..." />
+            <marker date="1492733688189" expanded="true" signature="1476:1652" ph="..." />
+            <marker date="1492733688189" expanded="true" signature="1614:1652" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roLo/ch02/viewOrders2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roLo/ch03/viewOrders.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
           <folding />
         </state>
       </provider>

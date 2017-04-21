@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="145a10e7-0efc-4890-a02d-be8092f130a8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roLo/ch03/img/brakes.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roLo/ch03/img/headlight.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roLo/ch03/img/spark_plug.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roLo/ch03/img/steering_wheel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roLo/ch03/img/tire.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roLo/ch03/img/wiper_blade.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="145a10e7-0efc-4890-a02d-be8092f130a8" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,20 +39,30 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="viewOrders2.php" pinned="false" current-in-tab="true">
+          <file leaf-file-name="viewOrders2.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/roLo/ch03/viewOrders2.php">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="1040">
-                  <caret line="65" column="8" lean-forward="false" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="8" />
+                  <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
                   <folding>
-                    <marker date="1492733287290" expanded="true" signature="873:1084" ph="..." />
-                    <marker date="1492733287290" expanded="true" signature="873:1090" ph="..." />
-                    <marker date="1492733287290" expanded="true" signature="1359:1384" ph="..." />
-                    <marker date="1492733287290" expanded="true" signature="1359:1611" ph="..." />
-                    <marker date="1492733287290" expanded="true" signature="1384:1606" ph="..." />
-                    <marker date="1492733287290" expanded="true" signature="1430:1606" ph="..." />
-                    <marker date="1492733287290" expanded="true" signature="1568:1606" ph="..." />
+                    <marker date="1492733516442" expanded="true" signature="873:1084" ph="..." />
+                    <marker date="1492733516442" expanded="true" signature="873:1090" ph="..." />
+                    <marker date="1492733516442" expanded="true" signature="1359:1384" ph="..." />
+                    <marker date="1492733516442" expanded="true" signature="1359:1611" ph="..." />
+                    <marker date="1492733516442" expanded="true" signature="1384:1606" ph="..." />
+                    <marker date="1492733516442" expanded="true" signature="1430:1606" ph="..." />
+                    <marker date="1492733516442" expanded="true" signature="1568:1606" ph="..." />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="orders.txt" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/roLo/ch03/orders.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -235,24 +237,6 @@
               <option name="myItemId" value="roLo" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ch03" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php-mysql_welling-thomson_5e" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php-mysql_welling-thomson_5e" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="roLo" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -308,11 +292,11 @@
       <recent name="$PROJECT_DIR$/roLo/ch01/php" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/roLo/ch03" />
       <recent name="$PROJECT_DIR$/roLo/ch03/img" />
       <recent name="$PROJECT_DIR$/roLo/ch23" />
       <recent name="$PROJECT_DIR$/roLo/ch16" />
       <recent name="$PROJECT_DIR$/roLo/ch10" />
-      <recent name="$PROJECT_DIR$/officialSource/Chapter10" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -491,12 +475,12 @@
       <workItem from="1492589434085" duration="1375000" />
       <workItem from="1492680947086" duration="17000" />
       <workItem from="1492680977859" duration="1354000" />
-      <workItem from="1492682354667" duration="10876000" />
+      <workItem from="1492682354667" duration="11074000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="193813000" />
+    <option name="totallyTimeSpent" value="194011000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -509,7 +493,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1679" y="2" width="1922" height="1092" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Regex Tester" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -519,7 +502,7 @@
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="GhcMod" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.098958336" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.098958336" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Cabal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -547,7 +530,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/roLo/ch20/lang_strings.php" />
     <entry file="file://$PROJECT_DIR$/officialSource/Chapter20/lang_selector.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -946,16 +928,24 @@
     <entry file="file://$PROJECT_DIR$/roLo/ch03/viewOrders2.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1040">
-          <caret line="65" column="8" lean-forward="false" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="8" />
+          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
           <folding>
-            <marker date="1492733287290" expanded="true" signature="873:1084" ph="..." />
-            <marker date="1492733287290" expanded="true" signature="873:1090" ph="..." />
-            <marker date="1492733287290" expanded="true" signature="1359:1384" ph="..." />
-            <marker date="1492733287290" expanded="true" signature="1359:1611" ph="..." />
-            <marker date="1492733287290" expanded="true" signature="1384:1606" ph="..." />
-            <marker date="1492733287290" expanded="true" signature="1430:1606" ph="..." />
-            <marker date="1492733287290" expanded="true" signature="1568:1606" ph="..." />
+            <marker date="1492733516442" expanded="true" signature="873:1084" ph="..." />
+            <marker date="1492733516442" expanded="true" signature="873:1090" ph="..." />
+            <marker date="1492733516442" expanded="true" signature="1359:1384" ph="..." />
+            <marker date="1492733516442" expanded="true" signature="1359:1611" ph="..." />
+            <marker date="1492733516442" expanded="true" signature="1384:1606" ph="..." />
+            <marker date="1492733516442" expanded="true" signature="1430:1606" ph="..." />
+            <marker date="1492733516442" expanded="true" signature="1568:1606" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roLo/ch03/orders.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

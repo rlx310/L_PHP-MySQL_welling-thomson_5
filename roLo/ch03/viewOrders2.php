@@ -49,9 +49,9 @@
 
             $line = explode("\t", $orders[$i]);
 
-            $line[1] = number_format(intval($line[1]));
-            $line[2] = number_format(intval($line[2]));
-            $line[3] = number_format(intval($line[3]));
+            $line[1] = number_format(intval($line[1]), 2);
+            $line[2] = number_format(intval($line[2]), 2);
+            $line[3] = number_format(intval($line[3]), 2);
 
             echo
                 "<tr>

@@ -21,12 +21,6 @@ foreach ($prices as $key => $value) {
 }
 
 
-for ($i = 0; $i < count($prices); $i++) {
-    list($key, $value) = $prices[$i];
-    echo $key . " - " . $value . "<br />";
-}
-
-
 $products1 = array(
     array('TIR', 'Tires', 100),
     array('OIL', 'Oil', 10),
